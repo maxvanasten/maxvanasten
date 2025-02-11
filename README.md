@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/hasjblokdev" target="blank"><img src="https://img.shields.io/twitter/follow/hasjblokdev?logo=twitter&style=for-the-badge" alt="hasjblokdev" /></a> </p>
 
-- 🔭 I’m currently working on [typescript-to-gsc](https://github.com/maxvanasten/typescript-to-gsc)
+- 🔭 I’m currently working on [typescript-to-gsc](https://github.com/maxvanasten/typescript-to-gsc), [gst-ast](https://github.com/maxvanasten/gsc-ast)
 
 - 🌱 I’m currently learning **GSC, Golang**
 
