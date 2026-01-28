@@ -13,6 +13,4 @@
 JavaScript, TypeScript, Go, GSC, Python, Node.js, Express, Firebase, MySQL, Bootstrap, CSS, HTML, Arduino, Bash, Linux
 
 ## 📫 Let's Connect
-
-- Twitter: [@HasjBlokDev](https://twitter.com/hasjblokdev)
 - Email: maxvasten@gmail.com
