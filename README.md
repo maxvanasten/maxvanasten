@@ -1,16 +1,27 @@
-# 👋 Max van Asten
+# Max van Asten
 
-## 🚀 Current Projects
+I build game scripting tooling and small, focused utilities with an emphasis on parsers and clean CLIs.
 
-- **[typescript-to-gsc](https://github.com/maxvanasten/typescript-to-gsc)**: Transpiling TypeScript to GSC for seamless game scripting in Call of Duty mods.
-- **[gsc-ast](https://github.com/maxvanasten/gsc-ast)**: Parsing GSC into ASTs to unlock advanced code analysis and manipulation.
-- **[s2d-engine](https://github.com/maxvanasten/s2d-engine)**: A lightweight JavaScript engine for top-down sprite-based games, complete with tilemap support.
-- **[2112-s2d](https://github.com/maxvanasten/2112-s2d)**: An indie game built with S2D, built as a proof of concept/testing area for s2d-engine.
-- **[go_template_engine](https://github.com/maxvanasten/go_template_engine)**: A simple templating engine in Go, written as a learning project.
+## Latest Work
 
-## 🛠️ Technologies I Work With
+| Repository | Focus | Notes |
+| --- | --- | --- |
+| [gscp](https://github.com/maxvanasten/gscp) | GSC parser | Lexer + parser for Call of Duty GSC that outputs an AST for analysis and tooling. |
+| [t6t](https://github.com/maxvanasten/t6t) | GSC analysis | T6 GSC analyzer built on gscp for fast inspection of functions, variables, flags, and dvars. |
 
-JavaScript, TypeScript, Go, GSC, Python, Node.js, Express, Firebase, MySQL, Bootstrap, CSS, HTML, Arduino, Bash, Linux
+## Selected Projects
 
-## 📫 Let's Connect
+| Repository | Focus | Notes |
+| --- | --- | --- |
+| [2112-s2d](https://github.com/maxvanasten/2112-s2d) | Game prototype | Open-world sandbox built to pressure-test my JavaScript S2D engine. |
+| [random_quote](https://github.com/maxvanasten/random_quote) | Go CLI | Prints a random line from a text file. |
+| [go_template_engine](https://github.com/maxvanasten/go_template_engine) | Go tooling | Minimal templating engine created as a learning project. |
+| [dotfiles](https://github.com/maxvanasten/dotfiles) | Dev environment | Arch Linux setup scripts and configs for fast machine bootstrapping. |
+
+## Technologies
+
+Go, JavaScript, TypeScript, GSC, Node.js, Bash, Linux, HTML, CSS, MySQL, Deno
+
+## Contact
+
 - Email: maxvasten@gmail.com
