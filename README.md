@@ -6,10 +6,10 @@ I build game scripting tooling and small, focused utilities with an emphasis on 
 
 | Repository | Focus | Notes |
 | --- | --- | --- |
-| [t6](https://github.com/maxvanasten/t6) | Bo2 Mods | My mods/scripts for Call of Duty Black Ops 2 |
+| [cod-mods](https://github.com/maxvanasten/cod-mods) | Call of Duty Mods | My mods/scripts for Call of Duty |
 | [gsclsp](https://github.com/maxvanasten/gsclsp) | GSC Language server | A lsp compliant language server for Call of Duty GSC |
 | [gscp](https://github.com/maxvanasten/gscp) | GSC parser | Lexer + parser for Call of Duty GSC that outputs an AST for analysis and tooling. |
-| [t6t](https://github.com/maxvanasten/t6t) | GSC analysis | T6 GSC analyzer built on gscp for fast inspection of functions, variables, flags, and dvars. |
+| [gscdoc](https://github.com/maxvanasten/gscdoc) | GSC documentation | Documentation for gsc functionality |
 
 ## Selected Projects
 
