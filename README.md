@@ -10,6 +10,7 @@ I build game scripting tooling and small, focused utilities with an emphasis on 
 | [gsclsp](https://github.com/maxvanasten/gsclsp) | GSC Language server | A lsp compliant language server for Call of Duty GSC |
 | [gscp](https://github.com/maxvanasten/gscp) | GSC parser | Lexer + parser for Call of Duty GSC that outputs an AST for analysis and tooling. |
 | [gscdoc](https://github.com/maxvanasten/gscdoc) | GSC documentation | Documentation for gsc functionality |
+| [gscex](https://github.com/maxvanasten/gscex) | GSC Source Explorer | TUI for exploring the decompiled t5/t6 scripts |
 
 ## Selected Projects
 
